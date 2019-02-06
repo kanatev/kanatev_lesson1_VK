@@ -9,8 +9,8 @@
 import Foundation
 
 class Session {
-//    token: String – для хранения токена в VK,
-//    userId: Int – для хранения идентификатора пользователя ВК.
+
+    // всегда б такое дз =)
     public static let sessionData = Session()
     
     var token: String = ""
